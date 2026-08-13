@@ -7,7 +7,7 @@ cask "galance-kit" do
   desc "Grafana panels and top traffic metrics in the macOS menu bar"
   homepage "https://github.com/sh1un/homebrew-glance-kit"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "GlanceKit.app"
 
