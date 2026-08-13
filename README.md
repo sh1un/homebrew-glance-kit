@@ -4,6 +4,7 @@ Install `galance-kit` with:
 
 ```sh
 brew tap sh1un/glance-kit
+brew trust sh1un/glance-kit
 brew install --cask galance-kit
 ```
 
